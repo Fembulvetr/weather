@@ -1,0 +1,25 @@
+.weather {
+    margin-top: 40px;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    width: 600px;
+    margin-left: 350px;
+}
+.weatherItems {
+    display: flex;
+
+}
+
+.weatherBlock {
+    border: 1px solid rgb(228, 43, 43);
+    background-color: rgb(228, 43, 43);
+    color: #fff;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 300px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+
+}
